@@ -1,15 +1,21 @@
 # NavigationTab
 炫酷tab栏  基于第三方开源组件
 # 使用方式
-setViewPager
-setOnPageChangeListener
-setTabIndex 跳转指定下标
-setTitles 设置标题
-getTabIndex 获取下标
-setAnimationDuration 设置动画时长
+① setViewPager
 
-# xx.setTitles(xx.titles[0],"")
-动态设置指定下标的标题
+② setOnPageChangeListener
+
+③ setTabIndex 跳转指定下标
+
+④ setTitles 设置标题
+
+⑤ getTabIndex 获取下标
+
+⑥ setAnimationDuration 设置动画时长
+
+⑦ xx.setTitles(xx.titles[0],"") 动态设置指定下标的标题
+ 
+
 
 # XML布局文件设置方式
     <com.xx.xx.NavigationTabStrip
