@@ -1,5 +1,5 @@
 # NavigationTab
-炫酷tab栏  基于第三方开源组件
+Android tab栏  基于第三方开源组件
 # 使用方式
 ① setViewPager
 
